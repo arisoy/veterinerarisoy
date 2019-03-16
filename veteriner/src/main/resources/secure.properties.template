@@ -1,4 +1,0 @@
-datasource.bonecp.driverClass=org.postgresql.Driver
-datasource.bonecp.url=jdbc:postgresql://localhost:5432/veteriner
-datasource.bonecp.username=postgres
-datasource.bonecp.password=555555
